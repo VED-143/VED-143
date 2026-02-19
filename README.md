@@ -1,110 +1,65 @@
 <h1 align="center">Hi 👋, I'm Vedika Tiwari</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-🔭 Full-Stack Developer Intern at <b>Sumati IO</b> <br>
-⚙️ Building scalable modules & background automation services <br>
-💡 Worked with .NET Worker Service, Gmail API & SMS Integration
+  <a href="https://www.linkedin.com/in/vedika-tiwari-634450255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vedika%20Tiwari-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tiwarivedika143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://vedikatiwari.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">💡 Projects:</h3>
+## 👩‍💻 About Me
 
-<ul>
-<li><b>Online Education Website</b><br>
-Interactive platform for students & mentors enabling seamless learning.<br>
-Tech Stack: HTML, CSS, JavaScript, Django
-</li>
-
-<br>
-
-<li><b>File Hider</b><br>
-Java-based application to protect sensitive files/folders using encryption.
-</li>
-
-<br>
-
-<li><b>Food Management System (Ongoing)</b><br>
-Platform to reduce food waste by redistributing surplus food to the needy.<br>
-Tech Stack: Spring Boot, SQL, React
-</li>
-</ul>
+- 🔭 Currently working as a **Full-Stack Developer Intern at Sumati IO**
+- ⚙️ Building scalable modules & background automation services  
+- 🚀 Experience with **.NET Worker Service, Gmail API & SMS Integration**
+- 💡 Passionate about **Full Stack Development & API Design**
+- 🎓 B.Tech in Computer Science (2021–2025) | CGPA: 7.75  
 
 ---
 
-<h3 align="left">🎓 Education:</h3>
-<p>B.Tech in Computer Science (2021–2025) | CGPA: 7.75</p>
+## 🚀 Projects
+
+### 🔹 Online Education Website
+Interactive platform for students & mentors enabling seamless learning.  
+**Tech Stack:** HTML, CSS, JavaScript, Django  
+
+### 🔹 File Hider
+Java-based application to protect sensitive files/folders using encryption.  
+
+### 🔹 Food Management System (Ongoing)
+Platform to reduce food waste by redistributing surplus food to the needy.  
+**Tech Stack:** Spring Boot, SQL, React  
 
 ---
 
-<h3 align="left">💬 Ask me about:</h3>
-<p>Full Stack Development & APIs</p>
+## 🛠️ Tech Stack
 
----
-
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vedika-tiwari-634450255/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vedika Tiwari LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:tiwarivedika143@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,java,dotnet,spring,react,js,html,css,mysql,git" />
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+## 📊 GitHub Stats
 
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</a>
-
-<a href="https://spring.io/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a>
-
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ved-143&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ved-143&theme=default" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ved-143&layout=compact" />
 </p>
 
 ---
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ved-143&show_icons=true&locale=en&layout=compact" alt="ved-143" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ved-143" alt="ved-143" />
+<p align="center">
+✨ Always learning, building, and improving.
 </p>
